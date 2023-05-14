@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=75&pause=1000&repeat=false&width=700&height=130&lines=Cyber+Sapiens+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
-<hr/>
+---
 
 <p>Welcome to the Cyber Sapiens team! We are a group of software development professionals who are collaborating on the <br/> Nice Gadgets 👌 e-commerce platform.</p>
 
