@@ -2,7 +2,7 @@
 
 ---
 
-<p>Welcome to the Cyber Sapiens team! We are a group of software development professionals who are collaborating on the <br/> Nice Gadgets 👌 e-commerce platform.</p>
+<p>Welcome to the Cyber Sapiens Squad! We are a group of software development professionals who are collaborating on the <br/> Nice Gadgets 👌 e-commerce platform.</p>
 
 <h2>Project Overview</h2>
   
